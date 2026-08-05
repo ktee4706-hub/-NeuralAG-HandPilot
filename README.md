@@ -1,9 +1,7 @@
 # -NeuralAG-HandPilot
 🖐️ NeuralAG HandPilot is an AI-powered virtual mouse that transforms your hand into a natural computer controller. Using MediaPipe, OpenCV, and Python, it tracks real-time hand gestures for cursor movement, left/right click, scrolling, and more—no touch, no extra hardware, just your webcam.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 🖐️ NeuralAG HandPilot
+---
 
 NeuralAG HandPilot is a standalone AI-powered virtual mouse that allows users to control their computer using only hand gestures captured through a standard webcam.
 
