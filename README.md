@@ -1,7 +1,7 @@
 # 🖐️ NeuralAG HandPilot
 
 <p align="center">
-  <img src="assets/readme/neuralag-handpilot.png" width="850">
+  <img src="NeuralAG-HandPilot/assets/readme/neuralag-handpilot.png.png" width="850">
 </p>
 
 <h3 align="center">
